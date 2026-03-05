@@ -11,12 +11,12 @@ API REST desarrollada con Node.js, Express y MongoDB Atlas.
 
 ## 📂 Estructura del proyecto
 
-controllers
-models
-routes
-db
-index.js
-package.json
+- controllers
+- models
+- routes
+- db
+- index.js
+- package.json
 
 ---
 
